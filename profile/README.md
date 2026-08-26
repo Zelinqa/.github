@@ -30,7 +30,7 @@
 
 <p align="center"><strong>Start building</strong></p>
 
-<table>
+<table width="100%">
   <tr>
     <td align="center" width="33%">
       <img
