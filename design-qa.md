@@ -12,11 +12,15 @@
 
 The first render used a conventional Markdown table with separate header, command,
 and link rows. It appeared denser and more technical than the approved design.
-The section was replaced with a centered label and one balanced row containing
-three self-contained entry points.
+The second render improved the structure but allowed the TypeScript command to
+wrap on narrower organization pages. The final section uses branded GitHub-safe
+badges, non-wrapping command graphics, and three balanced entry points while
+preserving accessible alternative text and real destination links.
 
 ## Result
 
-No P0, P1, or P2 visual defects remain in the final comparison.
+No P0, P1, or P2 visual defects remain in the final comparison. GitHub controls
+the surrounding organization header and does not support custom README CSS or
+interactive copy buttons.
 
 final result: passed
