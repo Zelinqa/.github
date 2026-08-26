@@ -30,74 +30,53 @@
 
 <p align="center"><strong>Start building</strong></p>
 
-<p align="center">
-  <a href="https://pypi.org/project/nbq/">
-    <img
-      src="https://img.shields.io/badge/Python_SDK-0B1F33?style=for-the-badge&logo=python&logoColor=8B5CF6"
-      alt="Python SDK"
-      width="32%"
-      height="48"
-    />
-  </a>
-  <a href="https://www.npmjs.com/package/@zelinqa/nbq">
-    <img
-      src="https://img.shields.io/badge/TypeScript_SDK-0B1F33?style=for-the-badge&logo=typescript&logoColor=8B5CF6"
-      alt="TypeScript SDK"
-      width="32%"
-      height="48"
-    />
-  </a>
-  <a href="https://github.com/Zelinqa/nbq-mcp">
-    <img
-      src="https://img.shields.io/badge/Official_MCP_Server-0B1F33?style=for-the-badge&logoColor=8B5CF6"
-      alt="Official MCP Server"
-      width="32%"
-      height="48"
-    />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://pypi.org/project/nbq/">
-    <img
-      src="https://img.shields.io/badge/pip_install_nbq-F4F0FF?style=flat-square&logo=pypi&logoColor=6D28D9&labelColor=F4F0FF&color=F4F0FF"
-      alt="pip install nbq"
-      width="32%"
-      height="38"
-    />
-  </a>
-  <a href="https://www.npmjs.com/package/@zelinqa/nbq">
-    <img
-      src="https://img.shields.io/badge/pnpm_add_%40zelinqa%2Fnbq-F4F0FF?style=flat-square&logo=pnpm&logoColor=6D28D9&labelColor=F4F0FF&color=F4F0FF"
-      alt="pnpm add @zelinqa/nbq"
-      width="32%"
-      height="38"
-    />
-  </a>
-  <a href="https://github.com/Zelinqa/nbq-mcp">
-    <img
-      src="https://img.shields.io/badge/AI_agent_tools-F4F0FF?style=flat-square&logoColor=6D28D9&labelColor=F4F0FF&color=F4F0FF"
-      alt="AI agent tools"
-      width="32%"
-      height="38"
-    />
-  </a>
-</p>
-
-<p align="center">
-  <strong>Python:</strong>
-  <a href="https://pypi.org/project/nbq/">PyPI</a>
-  ·
-  <a href="https://github.com/Zelinqa/nbq-sdk">Source</a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <strong>TypeScript:</strong>
-  <a href="https://www.npmjs.com/package/@zelinqa/nbq">npm</a>
-  ·
-  <a href="https://github.com/Zelinqa/nbq-sdk">Source</a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <strong>MCP:</strong>
-  <a href="https://github.com/Zelinqa/nbq-mcp"><code>nbq-mcp</code></a>
-</p>
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img
+        src="https://img.shields.io/badge/Python_SDK-0B1F33?style=for-the-badge&logo=python&logoColor=8B5CF6"
+        alt="Python SDK"
+      /><br /><br />
+      <img
+        src="https://img.shields.io/badge/pip_install_nbq-F4F0FF?style=flat-square&logo=pypi&logoColor=6D28D9&labelColor=F4F0FF&color=F4F0FF"
+        alt="pip install nbq"
+      /><br /><br />
+      &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+      <a href="https://pypi.org/project/nbq/">PyPI</a>
+      &nbsp;·&nbsp;
+      <a href="https://github.com/Zelinqa/nbq-sdk">Source</a>
+      &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+    </td>
+    <td align="center" width="33%">
+      <img
+        src="https://img.shields.io/badge/TypeScript_SDK-0B1F33?style=for-the-badge&logo=typescript&logoColor=8B5CF6"
+        alt="TypeScript SDK"
+      /><br /><br />
+      <img
+        src="https://img.shields.io/badge/pnpm_add_%40zelinqa%2Fnbq-F4F0FF?style=flat-square&logo=pnpm&logoColor=6D28D9&labelColor=F4F0FF&color=F4F0FF"
+        alt="pnpm add @zelinqa/nbq"
+      /><br /><br />
+      &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+      <a href="https://www.npmjs.com/package/@zelinqa/nbq">npm</a>
+      &nbsp;·&nbsp;
+      <a href="https://github.com/Zelinqa/nbq-sdk">Source</a>
+      &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+    </td>
+    <td align="center" width="33%">
+      <img
+        src="https://img.shields.io/badge/Official_MCP_Server-0B1F33?style=for-the-badge&logoColor=8B5CF6"
+        alt="Official MCP Server"
+      /><br /><br />
+      <img
+        src="https://img.shields.io/badge/AI_agent_tools-F4F0FF?style=flat-square&logoColor=6D28D9&labelColor=F4F0FF&color=F4F0FF"
+        alt="AI agent tools"
+      /><br /><br />
+      &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+      <a href="https://github.com/Zelinqa/nbq-mcp"><code>nbq-mcp</code></a>
+      &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <a href="https://docs.zelinqa.ai"><strong>Documentation</strong></a>
