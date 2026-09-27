@@ -1,6 +1,9 @@
 <div align="center">
   <a href="https://zelinqa.ai">
-    <img src="./assets/zelinqa-logo.svg" alt="Zelinqa" width="360" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/zelinqa-logo-light.svg" />
+      <img src="./assets/zelinqa-logo.svg" alt="Zelinqa" width="360" />
+    </picture>
   </a>
 
   <h2>The Questioning Intelligence Layer for AI</h2>
