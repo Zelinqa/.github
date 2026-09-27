@@ -20,7 +20,7 @@
 
 <div align="center">
   <img
-    src="./assets/nbq-product-map.png"
+    src="./assets/zelinqa-product-map.svg"
     alt="Your AI agent connects to the Zelinqa engine through the Python and TypeScript SDKs or the MCP server to create better conversations."
     width="100%"
   />
