@@ -21,7 +21,7 @@
 <div align="center">
   <img
     src="./assets/nbq-product-map.png"
-    alt="Your AI agent connects to the NBQ Engine through the Python and TypeScript SDKs or the MCP server to create better conversations."
+    alt="Your AI agent connects to the Zelinqa engine through the Python and TypeScript SDKs or the MCP server to create better conversations."
     width="100%"
   />
 </div>
@@ -48,12 +48,12 @@
         alt="Python SDK"
       /><br /><br />
       <img
-        src="https://img.shields.io/badge/pip_install_nbq-F4F0FF?style=flat-square&logo=pypi&logoColor=6D28D9&labelColor=F4F0FF&color=F4F0FF"
-        alt="pip install nbq"
+        src="https://img.shields.io/badge/pip_install_zelinqa-F4F0FF?style=flat-square&logo=pypi&logoColor=6D28D9&labelColor=F4F0FF&color=F4F0FF"
+        alt="pip install zelinqa"
       /><br /><br />
-      <a href="https://pypi.org/project/nbq/">PyPI</a>
+      <a href="https://pypi.org/project/zelinqa/">PyPI</a>
       &nbsp;·&nbsp;
-      <a href="https://github.com/Zelinqa/nbq-sdk">Source</a>
+      <a href="https://github.com/Zelinqa/zelinqa-sdk">Source</a>
       <br />
       <img src="./assets/spacer.svg" width="290" height="1" alt="" />
     </td>
@@ -63,12 +63,12 @@
         alt="TypeScript SDK"
       /><br /><br />
       <img
-        src="https://img.shields.io/badge/pnpm_add_%40zelinqa%2Fnbq-F4F0FF?style=flat-square&logo=pnpm&logoColor=6D28D9&labelColor=F4F0FF&color=F4F0FF"
-        alt="pnpm add @zelinqa/nbq"
+        src="https://img.shields.io/badge/pnpm_add_%40zelinqa%2Fsdk-F4F0FF?style=flat-square&logo=pnpm&logoColor=6D28D9&labelColor=F4F0FF&color=F4F0FF"
+        alt="pnpm add @zelinqa/sdk"
       /><br /><br />
-      <a href="https://www.npmjs.com/package/@zelinqa/nbq">npm</a>
+      <a href="https://www.npmjs.com/package/@zelinqa/sdk">npm</a>
       &nbsp;·&nbsp;
-      <a href="https://github.com/Zelinqa/nbq-sdk">Source</a>
+      <a href="https://github.com/Zelinqa/zelinqa-sdk">Source</a>
       <br />
       <img src="./assets/spacer.svg" width="290" height="1" alt="" />
     </td>
@@ -78,10 +78,12 @@
         alt="Official MCP Server"
       /><br /><br />
       <img
-        src="https://img.shields.io/badge/AI_agent_tools-F4F0FF?style=flat-square&logoColor=6D28D9&labelColor=F4F0FF&color=F4F0FF"
-        alt="AI agent tools"
+        src="https://img.shields.io/badge/uvx_zelinqa--mcp-F4F0FF?style=flat-square&logo=pypi&logoColor=6D28D9&labelColor=F4F0FF&color=F4F0FF"
+        alt="uvx zelinqa-mcp"
       /><br /><br />
-      <a href="https://github.com/Zelinqa/nbq-mcp"><code>nbq-mcp</code></a>
+      <a href="https://pypi.org/project/zelinqa-mcp/">PyPI</a>
+      &nbsp;·&nbsp;
+      <a href="https://github.com/Zelinqa/zelinqa-mcp">Source</a>
       <br />
       <img src="./assets/spacer.svg" width="290" height="1" alt="" />
     </td>
@@ -100,7 +102,7 @@
 
 <p align="center">
   <sub>
-    The NBQ SDK and MCP server are open source. The hosted NBQ Engine, scoring
+    The Zelinqa SDKs and MCP server are open source. The hosted Zelinqa engine, scoring
     algorithm, prompts, and infrastructure remain private.
   </sub>
 </p>
