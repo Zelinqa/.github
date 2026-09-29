@@ -31,6 +31,17 @@
   outcomes — exposed through one API.
 </p>
 
+<p align="center"><strong>Try Zelinqa for free</strong></p>
+
+<p align="center">
+  The free Developer edition includes Zelinqa Studio, the API, SDKs and MCP.<br />
+  Request an invitation, then configure your domain and create an API key in Studio.
+</p>
+
+<p align="center">
+  <a href="https://zelinqa.ai/en/pricing"><strong>Get free Developer access →</strong></a>
+</p>
+
 <p align="center"><strong>Start building</strong></p>
 
 <!--
@@ -48,8 +59,8 @@
         alt="Python SDK"
       /><br /><br />
       <img
-        src="https://img.shields.io/badge/pip_install_zelinqa-F4F0FF?style=flat-square&logo=pypi&logoColor=6D28D9&labelColor=F4F0FF&color=F4F0FF"
-        alt="pip install zelinqa"
+        src="https://img.shields.io/badge/uv_add_zelinqa-F4F0FF?style=flat-square&logo=uv&logoColor=6D28D9&labelColor=F4F0FF&color=F4F0FF"
+        alt="uv add zelinqa"
       /><br /><br />
       <a href="https://pypi.org/project/zelinqa/">PyPI</a>
       &nbsp;·&nbsp;
